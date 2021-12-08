@@ -9,4 +9,4 @@ Feel free to go ahead and use it on also in case you find it attractive and you 
 
 - <a href="https://www.figma.com/file/cxvksI6En94B54ar89STeK/comingsoon-Page?node-id=39%3A7">Figma Design</a>
 
-- liveSite Url here: 
+- Live Site URL: [https://nifty-aryabhata-fca1f0.netlify.app/](https://nifty-aryabhata-fca1f0.netlify.app/)
