@@ -5,3 +5,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root{
+    --bgColor: #000;
+    --fontFamily: 'IBM Plex Sans', sans-serif;
+    --textColor: #fff;
+}
