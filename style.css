@@ -11,3 +11,8 @@
     --fontFamily: 'IBM Plex Sans', sans-serif;
     --textColor: #fff;
 }
+
+body{
+    background-color: var(--bgColor);
+    color: var(--textColor);
+}
