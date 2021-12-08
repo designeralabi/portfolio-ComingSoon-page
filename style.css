@@ -41,6 +41,7 @@ h1{
 label{
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
 
 input[type="email"]{
@@ -78,4 +79,19 @@ input[type="submit"]{
 
 .social-icons a img{
     width: 24px;
+}
+
+@media screen and (min-width: 758px) {
+    label{
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    input[type="email"]{
+        width: 70%;
+    }
+
+    input[type="submit"]{
+        width: 30%;
+    }
 }
